@@ -6,5 +6,5 @@ Or an [online version](http://resume.kgjanowski.com)
 # Deployment
 
 ```
-aws s3 sync --acl public-read --sse --delete ./ s3://www.kgjanowski.com
+aws s3 sync --acl public-read --sse --delete ./ s3://resume.kgjanowski.com
 ```
