@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6beb1ab-48b0-4545-996f-df5bd74e6b54" name="Default" comment="">
+    <list default="true" id="c6beb1ab-48b0-4545-996f-df5bd74e6b54" name="Default" comment="update the cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +111,7 @@
       <workItem from="1508658667991" duration="1798000" />
       <workItem from="1581168439099" duration="637000" />
       <workItem from="1581614120532" duration="3552000" />
-      <workItem from="1711363828527" duration="5757000" />
+      <workItem from="1711363828527" duration="7654000" />
     </task>
     <task id="LOCAL-00001" summary="updated the CV with the info about F-Secure">
       <created>1508660088105</created>
@@ -121,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1508660088105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update the cv">
+      <option name="closed" value="true" />
+      <created>1711438821342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711438821342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,21 +138,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="updated the CV with the info about F-Secure" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the CV with the info about F-Secure" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2203" y="295" key="CommitChangelistDialog2" timestamp="1581624672748">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2203" y="295" key="CommitChangelistDialog2/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1581624672748" />
-    <state x="2275" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1581614126389">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2275" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1581614126389" />
-    <state x="2275" y="432" width="610" height="536" key="find.popup" timestamp="1581623840929">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2275" y="432" width="610" height="536" key="find.popup/0.0.3440.1400/-1920.0.1920.1040@0.0.3440.1400" timestamp="1581623840929" />
+    <MESSAGE value="update the cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the cv" />
   </component>
   <component name="masterDetails">
     <states>

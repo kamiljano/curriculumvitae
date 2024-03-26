@@ -289,12 +289,14 @@
                         Design and implementation of "Extract, Transform and Load" (ETL) data pipeline for the Paramount
                         in order to process their advertising partners' data.
 
-                        In the process I managed to improve the performance of the pipeline going from 1 week execution time
-                        to 30 minutes. It was achieved by streaming the data as well as distributing the load to multiple machines.
+                        In the process I managed to improve the performance of the pipeline, reducing the data batch ingestion time
+                        from 1 week execution time to 30 minutes.
+                        It was achieved by streaming the data (as opposed to loading gigabytes of data into memory to only then start processing it),
+                        as well as distributing the load to multiple machines.
                     </p>
                     <p style="font-style: italic">
                         Snowflake, AWS Redshift, AWS SQS, AWS Lambda, Kubernetes, AWS S3, AWS Glue, AWS StepFunctions, AWS Athena, TypeScript,
-                        Argo Workflows.
+                        Argo Workflows, AWS FIS, Akamai, Kinesis.
                     </p>
                 </div>
                 <div class="content-item">
